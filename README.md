@@ -1,1 +1,2 @@
-Hi this is my github 
+Hi this is my own website.
+its myfirst project.
